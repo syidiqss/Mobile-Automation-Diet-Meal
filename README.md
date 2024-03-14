@@ -8,7 +8,7 @@ The document containing the test scenarios and test steps can be found [here](ht
 
 ### Video Recordings
 
-Video recordings of the Mobile Automation Testing process can be found [here](https://drive.google.com/file/d/1fy1wjes-Kjzm9IKmdcP-K2vkZJACuNAu/view?usp=sharing).
+Video recordings of the Mobile Automation Testing process can be found [here](https://drive.google.com/file/d/16ZPTwqRR432wNmYbvtB6nfHPbqcfXcfj/view?usp=sharing).
 
 ### Prerequisites
 
